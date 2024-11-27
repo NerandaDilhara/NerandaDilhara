@@ -23,10 +23,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/neranda dilhara kumarasingha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neranda dilhara kumarasingha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:23567338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23567338" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/user:23567338](https://stackoverflow.com/users/23567338/neranda-dilhara)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23567338" height="30" width="40" /></a>
 <a href="https://fb.com/neranda dilhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neranda dilhara" height="30" width="40" /></a>
 <a href="https://medium.com/@nerandadilhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nerandadilhara" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/neranda dilhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neranda dilhara" height="30" width="40" /></a>
+<a href="www.youtube.com/@nerandadilhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="neranda dilhara" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/neranda dilhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="neranda dilhara" height="30" width="40" /></a>
 </p>
 
