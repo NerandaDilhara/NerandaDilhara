@@ -6,9 +6,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerandadilhara" alt="nerandadilhara" /></a> </p>
 
 <div align="center">
-  - 🌱 I’m currently learning **MERN, Flutter, Deep Learning**
+  🌱 I’m currently learning **MERN, Flutter, Deep Learning, AWS, React, React Native, Nodejs, MongoDB** <br><br>
 
-- 📫 How to reach me **nerandadilhara@gmail.com**
+  📫 How to reach me **nerandadilhara@gmail.com**
 </div>
 
 <div align="center">
